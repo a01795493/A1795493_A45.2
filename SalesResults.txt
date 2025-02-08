@@ -1,0 +1,6 @@
+Total Sales: $165235.37
+Execution Time: 0.0010 seconds
+
+Warnings and Errors:
+Warning: 'Elotes' is not listed in the price catalogue.
+Warning: 'Frijoles' is not listed in the price catalogue.
